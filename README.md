@@ -1,6 +1,6 @@
 ![GoLang](https://caraguna.com/wp-content/uploads/2020/12/Golang.jpg-1024x505.png)
 # Discord GoLang Bot
-Multifunction Discord Bot built in **Go**.
+Multifunctional Discord Bot built in **Go**.
 
 # Features
 - Advanced Music Command
