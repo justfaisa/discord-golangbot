@@ -20,3 +20,4 @@ go get -u github.com/justfaisa/discord-golangbot
 # Run the Bot
 go run main.go
 ```
+`NOTE:` Bot is still under development. I suggest you don't fork this repository first
