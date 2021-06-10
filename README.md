@@ -9,6 +9,7 @@ Multifunction Discord Bot built in **Go**.
 # Install
 You need to have installed in your system 
     **go>1.7** and **ffmpeg>3.0**
+`1.` Clone this Project
 ```sh
 # Install Bot
 go get -u github.com/justfaisa/discord-golangbot
