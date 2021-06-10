@@ -29,11 +29,11 @@ var cfg *Config
 // Load initializes the configuration
 func Load() {
 	cfg = &Config{
-		DiscordToken:  strings.TrimSpace(os.Getenv("DISCORD_BOT_TOKEN")),
+		DiscordToken:  strings.TrimSpace(os.Getenv("BOT_TOKEN")),
 		CommandPrefix: strings.TrimSpace(os.Getenv("COMMAND_PREFIX")),
 	}
 	if len(cfg.DiscordToken) == 0 {
-		panic("environment variable 'DISCORD_BOT_TOKEN' must not be empty")
+		panic("environment variable 'BOT_TOKEN' must not be empty")
 	}
 	if len(cfg.CommandPrefix) != 1 {
 		cfg.CommandPrefix = "!"
