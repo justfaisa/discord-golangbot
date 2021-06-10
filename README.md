@@ -22,7 +22,7 @@ go mod download
 ```
 
 # Run the Bot
-`1.` Fill the `.env.example` file with your bot data, and rename it to `.env`.
+`1.` Fill the `.env.example` file with your bot data, and rename it to `.env`
 
 `2.` Run the Bot
 ```sh
