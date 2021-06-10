@@ -21,7 +21,7 @@ import (
 
 // TODO: get rid of this and just use the prefix set by the guild.
 // By default a guild prefix should be ! or $.
-const prefix = "n!"
+const prefix = "!"
 
 func main() {
 
