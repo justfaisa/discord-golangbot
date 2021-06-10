@@ -10,6 +10,7 @@ import (
 type Config struct {
 	DiscordToken                  string
 	CommandPrefix                 string
+      YoutubeToken                  string
 	MaximumAudioDurationInSeconds int
 	MaximumQueueSize              int
 	BotAdmins                     []string
