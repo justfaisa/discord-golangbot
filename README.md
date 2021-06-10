@@ -3,7 +3,7 @@
 Multiple function Discord Bot built in **Go**.
 
 # Features
-- Advanced Music Comma
+- Advanced Music Command
  
 # Install
 You need to have installed in your system 
