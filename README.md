@@ -9,8 +9,8 @@ Multifunctional Discord Bot built in **Go**.
  
 # Install
 You need to have installed in your system 
-- ffmpeg 
-- youtube-dl
+- `ffmpeg`
+- `youtube-dl`
 
 `1.` Clone this Project
 
