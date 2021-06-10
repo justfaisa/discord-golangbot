@@ -4,6 +4,7 @@ Multifunction Discord Bot built in **Go**.
 
 # Features
 - Advanced Music Command
+- Twitch Tracker
  
 # Install
 You need to have installed in your system 
