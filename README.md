@@ -14,7 +14,7 @@ You need to have installed in your system
 
 `2.` Install
 ```sh
-# Install Bot
+# Install 
 go mod download
 ```
 
