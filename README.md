@@ -8,7 +8,7 @@ Multifunction Discord Bot built in **Go**.
  
 # Install
 You need to have installed in your system 
-    **go>1.7** and **ffmpeg>3.0**
+    **go>1.7**, **ffmpeg>3.0** and **youtube-dl>2021.06.06**
 
 `1.` Clone this Project
 
