@@ -42,11 +42,7 @@ func main() {
 	// TODO is there a better way to package all these commands without doing something like this?
 	cmds.RegisterRandomCommands(bot)
 	cmds.RegisterTwitchCommands(bot)
-	cmds.RegisterFunCommands(bot)
-	cmds.RegisterImageCommands(bot)
-	cmds.RegisterUtilityCommands(bot)
-	cmds.RegisterTestingCommands(bot)
-	cmds.RegisterSpacexCommands(bot)
+	cmds.RegiesterMusicCommands(bot)
 
 	// Dashboard stuff for handling real-time updates and the admin dashboard.
 	hub := &wsHub{
