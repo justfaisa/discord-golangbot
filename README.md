@@ -9,6 +9,7 @@ Multifunctional Discord Bot built in **Go**.
  
 # Install
 You need to have installed in your system 
+- `go`
 - `ffmpeg`
 - `youtube-dl`
 
