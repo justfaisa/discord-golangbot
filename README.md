@@ -29,6 +29,6 @@ go mod download
 # Run the Bot
 go run main.go
 ```
-Enjoy!
+**Enjoy!**
 
 `NOTE:` Bot is still under development. I suggest you don't fork this repository first
