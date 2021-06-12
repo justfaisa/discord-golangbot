@@ -16,18 +16,18 @@ You need to have installed in your system
 `1.` Clone this Project
 
 `2.` Install
-```sh
+```bash
 # Install 
-go mod download
+$ go mod download
 ```
 
 # Run the Bot
 `1.` Fill the `.env.example` file with your bot data, and rename it to `.env`
 
 `2.` Run the Bot
-```sh
+```bash
 # Run the Bot
-go run main.go
+$ go run main.go
 ```
 **Enjoy!**
 
